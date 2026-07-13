@@ -15,7 +15,7 @@ I am currently focused on digital design using Verilog and SystemVerilog — bui
 
 ## Projects
 
-**[Verilog-Projects](https://github.com/dev-gothi/Verilog-Projects)**
+**[Verilog-Projects](https://github.com/dev-gothi/Verilog-Projects)** :
 Collection of digital design projects in Verilog/SystemVerilog, simulated and verified. Includes:
 - UART TX/RX system with 16x oversampling
 - Synchronous FIFO
@@ -26,7 +26,7 @@ Collection of digital design projects in Verilog/SystemVerilog, simulated and ve
 - 4-floor elevator controller (Moore FSM)
 - Shift registers (SIPO, SISO, PISO, PIPO, Universal)
 
-**Python Projects**
+**Python Projects** :
 CLI-based applications built while learning object-oriented programming:
 - Library Management System
 - Bank Account System
@@ -34,7 +34,7 @@ CLI-based applications built while learning object-oriented programming:
 - ATM System
 - TICTACTOE Game using NumPy
 
-**C and JAVA Projects**
+**C and JAVA Projects** :
 Data structures and algorithm practice, including custom implementations of Stacks and Queues, along with problem-solving.
 
 ## Tools & Technologies
