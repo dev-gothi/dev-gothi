@@ -1,4 +1,5 @@
-# Dev Gothi
+<h1 align="center">Dev Gothi</h1>
+<p align="center">VLSI & Digital Design | Electronics Engineering Student, SVNIT Surat</p>
 
 ![Verilog](https://img.shields.io/badge/Verilog-VLSI-blue)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-Digital%20Design-9cf)
@@ -6,11 +7,11 @@
 ![C](https://img.shields.io/badge/C-Data%20Structures-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Learning%20%26%20Building-brightgreen)
 
-B.Tech student in Electronics and VLSI Engineering at Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat. Working toward a career in the VLSI/semiconductor industry.
+B.Tech student in Electronics and VLSI Engineering at Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat. Working towards a career in the VLSI/semiconductor industry.
 
 ## What I'm working on
 
-Currently focused on digital design using Verilog and SystemVerilog — building and properly simulating FSM-based designs, and documenting each project on GitHub.
+I am currently focused on digital design using Verilog and SystemVerilog — building and properly simulating FSM-based designs, and also in strengthening my problem solving skills.
 
 ## Projects
 
@@ -31,9 +32,10 @@ CLI-based applications built while learning object-oriented programming:
 - Bank Account System
 - Contact Book
 - ATM System
+- TICTACTOE Game using NumPy
 
 **C Projects**
-Data structures and algorithm practice, including custom implementations of Stacks and Queues, along with problem-solving on LeetCode (arrays, linked lists, strings).
+Data structures and algorithm practice, including custom implementations of Stacks and Queues, along with problem-solving.
 
 ## Tools & Technologies
 
@@ -47,4 +49,4 @@ Data structures and algorithm practice, including custom implementations of Stac
 
 ## Connect
 
-LinkedIn: [add your link]
+LinkedIn: https://www.linkedin.com/in/dev-gothi/
