@@ -34,7 +34,7 @@ CLI-based applications built while learning object-oriented programming:
 - ATM System
 - TICTACTOE Game using NumPy
 
-**C Projects**
+**C and JAVA Projects**
 Data structures and algorithm practice, including custom implementations of Stacks and Queues, along with problem-solving.
 
 ## Tools & Technologies
@@ -43,7 +43,7 @@ Data structures and algorithm practice, including custom implementations of Stac
 ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-4B0082?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
