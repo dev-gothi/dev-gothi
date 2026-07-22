@@ -29,6 +29,7 @@ Collection of digital design projects in Verilog/SystemVerilog, simulated and ve
 **Python Projects** :
 CLI-based applications built while learning object-oriented programming:
 - Library Management System
+- Expense Tracker
 - Bank Account System
 - Contact Book
 - ATM System
